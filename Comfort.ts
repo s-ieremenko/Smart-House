@@ -1,0 +1,4 @@
+enum Comfort {
+    Warmer,
+    Colder
+}
